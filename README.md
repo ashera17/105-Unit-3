@@ -6,7 +6,7 @@ The repository contains 3 python notebooks:
 2. module on getting started with the Pandas package.
 3. module on using the Pandas package for data analysis.
 
-These materials have been adapted from the excellent lessons created by the staff at the [Research Hub]([#ADD LINK](https://library.unc.edu/data/)) of UNC's Davis Library
+These materials have been adapted from the excellent lessons created by the staff at the [Research Hub]([#Link](https://library.unc.edu/data/)) of UNC's Davis Library
 
 I chose the specific data I did because I wanted to learn about my own county. The CountyHealthData.csv contains every county from every state in the United States and it is very interesting to compare the different types of data.
 

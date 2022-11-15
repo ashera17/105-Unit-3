@@ -1,5 +1,5 @@
 # 105-Unit-3
-This is a reporsitory containg instructional materials and sample datasets for Prof. Gotzler's Fall 2002 sections of ENGL-105 at the University of Carolina, Chapel Hill.
+This is a reporsitory containg instructional materials and sample datasets for Prof. Gotzler's Fall 2022 sections of ENGL-105 at the University of Carolina, Chapel Hill.
 
 The repository contains 3 python notebooks, covering basic topics in coding with Python3, and beginner modules on using the Pandas package for data analysis.
 

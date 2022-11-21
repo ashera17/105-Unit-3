@@ -11,6 +11,6 @@ I chose the specific data I did because I wanted to learn about my own county. T
 
 This data is mostly for people who are new to Python and Pandas as it is a good way to get an introduction to using the software. With the simple datatset that can be interesting to anyone this repository is simply meant to show off the basic functions that can be used in Python and Pandas.
 
-The purpose of the specific data I chose and data visualization I made is to hopefully put into perspective the differences in places in the United States in how even if the place has the same name it is so much different in so many different ways. This is present among all counties in the data set but it is good to look at a place that is familiar to me as I can relate and undertsand the data better. ![Data](Data_Visualization.png)
+The purpose of the specific data I chose and data visualization I made is to hopefully put into perspective the differences in places in the United States in how even if the place has the same name it is so much different in so many different ways. This is present among all counties in the data set but it is good to look at a place that is familiar to me as I can relate and undertsand the data better. (P.S. for Median Household Income 3.1 and 3.5 are in thousands so for NC it is $31,000 and for MO it is $35,000) ![Data](Data_Visualization.png)
 
 People can use this repository in order to learn more about Python and Pandas, and hopefully use this as a springboard into their future endeavors using these softwares.

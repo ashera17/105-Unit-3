@@ -1,5 +1,5 @@
 # Data
-This folder contains sample data and subsets used for Python instructional modules.
+This folder contains sample data that I used and the instructional Jupityer notebook on how I isolated my data
 
 This is the basic data that I used along with the main subset that I focused on in my analysis of the data.
 

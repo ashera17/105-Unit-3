@@ -1,12 +1,11 @@
 # ENGL-105-Unit-3
 This is a reporsitory containg instructional materials and sample datasets for Prof. Gotzler's Fall 2022 sections of ENGL-105 at the University of Carolina, Chapel Hill.
 
-The repository contains 3 python notebooks: 
-1. module on basic topics in coding with Python3.
-2. module on getting started with the Pandas package.
-3. module on using the Pandas package for data analysis.
-
-These materials have been adapted from the excellent lessons created by the staff at the [Research Hub](https://library.unc.edu/data/) of UNC's Davis Library.
+The repository contains: 
+- A sample data set containing County Health Data
+- A Jupiyter Lab notebook containg instructions with the manipulated data
+- A seperate CSV file with the manipulated data
+- And  a grouped bar chart image that visualizes the manipulated data
 
 I chose the specific data I did because I wanted to learn about my own county. The CountyHealthData.csv contains every county from every state in the United States and it is very interesting to compare the different types of data.
 

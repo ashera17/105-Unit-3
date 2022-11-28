@@ -5,7 +5,7 @@ The repository contains:
 - A sample data set containing [County Health Data](https://github.com/ashera17/ENGL-105-Unit-3/blob/main/CountyHealthData.csv)
 - A [Jupiyter Lab Notebook](https://github.com/ashera17/ENGL-105-Unit-3/blob/main/Data/Unit%203%20Project.ipynb) containing instructions with the manipulated data
 - A seperate [CSV file](https://github.com/ashera17/ENGL-105-Unit-3/blob/main/Data/MergedData.csv) with the manipulated data
-- And a grouped bar chart image that visualizes the manipulated data
+- And a [grouped bar chart image](https://github.com/ashera17/ENGL-105-Unit-3/blob/main/Data_Visualization2.png) that visualizes the manipulated data
 
 I chose the specific data I did because I wanted to learn about my own county. The CountyHealthData.csv contains every county from every state in the United States and it is very interesting to compare the different types of data.
 

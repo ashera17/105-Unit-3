@@ -1,7 +1,7 @@
 # ENGL-105-Unit-3
 ## Comparing Scotland County in 2 Different States
 
-The repository contains: 
+This repository contains: 
 - A sample data set containing [County Health Data](https://github.com/ashera17/ENGL-105-Unit-3/blob/main/CountyHealthData.csv)
 - A [Jupiyter Lab Notebook](https://github.com/ashera17/ENGL-105-Unit-3/blob/main/Data/Unit%203%20Project.ipynb) containing instructions with the manipulated data
 - A seperate [CSV file](https://github.com/ashera17/ENGL-105-Unit-3/blob/main/Data/MergedData.csv) with the manipulated data

@@ -13,6 +13,6 @@ This data is mostly for people who are new to Python and Pandas as it is a good 
 
 The purpose of the specific data I chose and data visualization I made is to hopefully put into perspective the differences in places in the United States in how even if the place has the same name it is so much different in so many different ways. This is present among all counties in the data set but it is good to look at a place that is familiar to me as I can relate and undertsand the data better. (P.S. for Median Household Income 3.1 and 3.5 are in thousands so for NC it is $31,000 and for MO it is $35,000 and the Homicide Rate is excluded because there is no data available for MO) 
 
-![Data](Data Wrapper.png)
+![Data](Data_Wrapper.png)
 
 People can use this repository in order to learn more about Python and Pandas, and hopefully use this as a springboard into their future endeavors using these softwares.

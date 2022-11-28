@@ -2,7 +2,7 @@
 ## Comparing Scotland County in 2 Different States
 
 The repository contains: 
-- A sample data set containing County Health Data
+- A sample data set containing [County Health Data](https://github.com/ashera17/ENGL-105-Unit-3/blob/main/CountyHealthData.csv)
 - A Jupiyter Lab notebook containg instructions with the manipulated data
 - A seperate CSV file with the manipulated data
 - And  a grouped bar chart image that visualizes the manipulated data

@@ -3,7 +3,7 @@
 
 The repository contains: 
 - A sample data set containing [County Health Data](https://github.com/ashera17/ENGL-105-Unit-3/blob/main/CountyHealthData.csv)
-- A Jupiyter Lab notebook containing instructions with the manipulated data
+- A [Jupiyter Lab Notebook](https://github.com/ashera17/ENGL-105-Unit-3/blob/main/Data/Unit%203%20Project.ipynb) containing instructions with the manipulated data
 - A seperate CSV file with the manipulated data
 - And  a grouped bar chart image that visualizes the manipulated data
 
